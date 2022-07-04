@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NumberInc</string>
+    <string name="hint">Press the button which contain the larger number</string>
+    <string name="game_name">Number Guessing Game</string>
+    <string name="number_one">5</string>
+    <string name="number_two">3</string>
+</resources>
