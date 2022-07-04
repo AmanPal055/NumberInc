@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
 //          1.show toast and change background color
         if (isAnswerCorrect){
 
-            background_view.setBackgroundColor(Color.GREEN)
+            background_view.setBackgroundColor(Color.CYAN)
             count++
             count_score.text = count.toString()
         }
